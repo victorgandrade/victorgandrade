@@ -1,4 +1,4 @@
-# Olá, sou Victor Gabriel Ramos Andrade 👋
+# Oi, sou Victor Gabriel Ramos Andrade ✌
 
 ### QA Engineer | Testes Manuais e Automação
 
