@@ -14,7 +14,7 @@ Recentemente concluí o programa **QA Engineer da TripleTen**, onde desenvolvi e
 - SQL e validação de dados
 - Automação de testes com Python, Selenium WebDriver e Pytest
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 **Testes:** Testes Manuais · Testes Funcionais · Testes de Regressão · Testes Exploratórios · Testes de API · Testes de UI
 
@@ -24,7 +24,7 @@ Recentemente concluí o programa **QA Engineer da TripleTen**, onde desenvolvi e
 
 **Dados e formatos:** SQL · JSON · XML/XSD
 
-### 📂 Projetos em destaque
+###  Projetos em destaque
 
 - **Urban Routes** — Testes de Aplicação Web e Automação de Testes
 - **Urban Scooter** — Testes Web, Mobile e API
